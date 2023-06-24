@@ -11,5 +11,10 @@ print(a)
 
 # printing hello world using a variable
 
-msg = 'hello world'
+msg = 'hello guys'
 print(msg)
+
+# using format specifier 
+
+message = "Hello, world!"
+print("i just want to say {}".format(message))
