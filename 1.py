@@ -1,20 +1,21 @@
-# basic python program 
 
-# printing hello world 
+# print statements 
+# print is an inbuilt function
+# syntax print()
+print(7)
 
+# print strings 
+# strings are denoted with double quotes aur single Quotes 
 print('hello world')
+print("hello Smuf")
 
-# taking an input an printing it
+# variables 
 
-a= input('enter anything to print:')
-print(a)
+age = 22 
+first_name = 'SMUF'
+boolean = True
+boolean =False
 
-# printing hello world using a variable
-
-msg = 'hello guys'
-print(msg)
-
-# using format specifier 
-
-message = "Hello, world!"
-print("i just want to say {}".format(message))
+print(age)
+print(first_name)
+print(boolean)
